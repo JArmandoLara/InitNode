@@ -1,0 +1,16 @@
+{
+  "name": "curso-node",
+  "version": "0.0.1",
+  "description": "Tabla de multiplicar con archivo de gtecto",
+  "main": "/03-bases-node/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node ./03-bases-node/app --base=3"
+  },
+  "author": "Armando Lara",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.0.1"
+  }
+}
